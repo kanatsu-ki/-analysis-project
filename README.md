@@ -19,4 +19,3 @@ This project focuses on analyzing a dataset to gain valuable insights into the m
 - Data Cleaning
 - Data Visualization
 - Additional Analysis
-- Conclusion
